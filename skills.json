@@ -1,0 +1,100 @@
+[
+    {
+        "name": "IoT",
+        "icon": "https://img.icons8.com/?size=100&id=YbNnFPlctYna&format=png&color=000000"
+    },
+    {
+        "name": "Claude AI",
+        "icon": "https://img.icons8.com/?size=100&id=zQjzFjPpT2Ek&format=png&color=000000"
+    },
+    
+    {
+        "name": "NodeJS",
+        "icon": "https://img.icons8.com/?size=100&id=54087&format=png&color=000000"
+    },
+    {
+        "name": "Notion",
+        "icon": "https://img.icons8.com/?size=100&id=F6H2fsqXKBwH&format=png&color=000000"
+    },
+    {
+        "name": "Spreadsheet",
+        "icon": "https://img.icons8.com/?size=100&id=qrAVeBIrsjod&format=png&color=000000"
+    },
+    {
+        "name": "PHP",
+        "icon": "https://img.icons8.com/?size=100&id=f0R4xVI4Sc8O&format=png&color=000000"
+    },
+    {
+        "name": "Word",
+        "icon": "https://img.icons8.com/?size=100&id=mx1hqDffOxmy&format=png&color=000000"
+    },
+    {
+        "name": "Excel",
+        "icon": "https://img.icons8.com/?size=100&id=BEMhRoRy403e&format=png&color=000000"
+    },
+    {
+        "name": "PowerPoint",
+        "icon": "https://img.icons8.com/?size=100&id=81726&format=png&color=000000"
+    },
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/?size=100&id=20909&format=png&color=000000"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/?size=100&id=21278&format=png&color=000000"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/?size=100&id=108784&format=png&color=000000"
+    },
+    {
+        "name": "Jira",
+        "icon": "https://img.icons8.com/?size=100&id=oROcPah5ues6&format=png&color=000000"
+    },
+    {
+        "name": "Canva",
+        "icon": "https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000"
+    },
+    {
+        "name": "WordPress",
+        "icon": "https://img.icons8.com/?size=100&id=aMLZmDlq6SvC&format=png&color=000000"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/?size=100&id=13441&format=png&color=000000"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000"
+    },
+    {
+        "name": "Laravel",
+        "icon": "https://img.icons8.com/?size=100&id=UG5EO81XNkPs&format=png&color=000000"
+    },
+    {
+        "name": "PhotoShop",
+        "icon": "https://img.icons8.com/?size=100&id=NeNPFdj7MzXi&format=png&color=000000"
+    },
+    {
+        "name": "Lightroom",
+        "icon": "https://img.icons8.com/?size=100&id=cAVP5AOANxnf&format=png&color=000000"
+    },
+    {
+        "name": "AutoCad",
+        "icon": "https://img.icons8.com/?size=100&id=v05wxt6VkoUP&format=png&color=000000"
+    },
+    {
+        "name": "Netlify",
+        "icon": "https://img.icons8.com/?size=100&id=YsPdguLCFOMH&format=png&color=000000"
+    },
+    {
+        "name": "ChatGPT",
+        "icon": "https://img.icons8.com/?size=100&id=FBO05Dys9QCg&format=png&color=000000"
+    },
+    {
+        "name": "Gmail",
+        "icon": "https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000"
+    }
+    
+]

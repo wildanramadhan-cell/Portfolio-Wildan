@@ -1,0 +1,62 @@
+[
+  {
+    "name": "HumanGen 1.0",
+    "desc": "A Human Resource Management Platform for Centralized Employee Data, Recruitment Administration, Attendance Tracking, Performance Monitoring, and HR Operations.",
+    "image": "hrisjlf",
+    "category": "hris",
+    "links": {
+      "view": "https://portal.jalanlangitfoundation.id/"
+      
+    }
+  },
+  {
+    "name": "PadiPeduli",
+    "desc": "An IoT-Based Smart Food Distribution Platform with RFID Authentication, Real-Time Inventory Monitoring, Donation Management, and Automated Notifications.",
+    "image": "padi",
+    "category": "mern",
+    "links": {
+      "view": "https://flipkartwebs.herokuapp.com/"
+      
+    }
+  },
+  {
+    "name": "ResumeGen",
+    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
+    "image": "resumegen",
+    "category": "mern",
+    "links": {
+      "view": "https://resumegenx.netlify.app/"
+      
+    }
+  },
+  {
+    "name": "React-Projects",
+    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
+    "image": "reactprojects",
+    "category": "mern",
+    "links": {
+      "view": "https://reactjsprojects.herokuapp.com/"
+      
+    }
+  },
+  {
+    "name": "StrukAI",
+    "desc": "An AI-powered expense tracker built with Next.js, Supabase, and Groq AI, featuring automated OCR receipt scanning, interactive spending analytics, and a 1-click demo mode.",
+    "image": "aistruct",
+    "category": "basicweb",
+    "links": {
+      "view": "https://struk-ai-p9vp.vercel.app/",
+      "code": "https://github.com/wildanramadhan-cell/struk-ai"
+    }
+  },
+  {
+    "name": "Digital Wedding Invitation",
+    "desc": "A mobile-first digital wedding invitation built with Next.js and Supabase, featuring real-time RSVP, guest personalization, and an admin dashboard.",
+    "image": "Undangan",
+    "category": "mern",
+    "links": {
+      "view": "https://undangan-digital-beta-swart.vercel.app/",
+      "code": "https://github.com/wildanramadhan-cell/Undangan-Digital"
+    }
+  }
+]
