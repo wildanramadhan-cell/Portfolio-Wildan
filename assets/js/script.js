@@ -61,8 +61,8 @@ $("#contact-form").submit(function (event) {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | Jigar Sable";
-            $("#favicon").attr("href", "assets/images/favicon.png");
+            document.title = "Portfolio | Wildan Ramadhan";
+            $("#favicon").attr("href", "assets/images/uwil.png");
         }
         else {
             document.title = "Come Back To Portfolio";
